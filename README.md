@@ -2,5 +2,5 @@
 Server for RNAppBlog
 
 To start the server
-Yarn install
-Yarn run tunnel
+Yarn install.
+Yarn run tunnel.
